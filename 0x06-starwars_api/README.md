@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x06. Star Wars API
 ## Task
     Write a script that prints all characters of a Star Wars movie:
@@ -38,3 +39,6 @@
 ## Resources
 - [swapi-api.hbtn.io](https://swapi-api.hbtn.io/)    
 - [request module](https://github.com/request/request)  
+=======
+0x06. Star Wars API
+>>>>>>> c04ec0563c183b9995e88de462c91116cda4f0d7
